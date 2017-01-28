@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.apache.jmeter.threads.dynamic.FileWatcherImpl"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.blazemeter.jmeter.threads.dynamic.dynamic.AddThreadsFileWatcherImpl"/>
+<fullyQualifiedTypeName name="com.blazemeter.jmeter.threads.dynamic.dynamic.KillThreadsFileWatcherImpl"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+</qualifiedTypeNameHistroy>
